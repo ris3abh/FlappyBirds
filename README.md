@@ -6,3 +6,6 @@ modules used :
          strongly with the interpreter. It is always available.
 3. pygame - pygame is a free and open-source cross-platform library for the development of multimedia applications like 
          video games using Python
+
+
+This python game was made to practice coding skills in python and was inspired from codewithharry
